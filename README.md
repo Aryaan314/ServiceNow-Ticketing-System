@@ -86,8 +86,8 @@ Submitted a request through the employee-facing Service Catalog, demonstrating t
 - Shows the distinction between an **Incident** (something broken) and a **Request** (something needed) — two different record types with their own fulfillment tracking.
 
 **Screenshot:**
-Order confirmation with fulfillment stage tracker
-![Order confirmation with fulfillment](14-service-catalog-request-confirmation.png)
+
+![Order confirmation with fulfillment stage tracker](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/14-service-catalog-request-confirmation.png)
 ---
 
 ## Knowledge Base
@@ -129,7 +129,8 @@ Workaround and cause notes documented
 ![Problem Root Cause Analysis](19-problem-root-cause-analysis.png)
 
 Final resolved state with full stage tracker, every stage checked off
-![Problem Resolved Full Lifecycle](23-problem-resolved-full-lifecycle.png)
+
+![Problem Resolved Full Lifecycle](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/23-problem-resolved-full-lifecycle.png)
 ---
 
 ## Change Management
