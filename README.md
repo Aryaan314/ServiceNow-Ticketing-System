@@ -180,4 +180,4 @@ Built reports to visualize ticket data — a core skill for help desk roles that
 
 ---
 
-*Built by Aryaan Sheikh & in a ServiceNow Personal Developer Instance for self-directed learning and portfolio purposes.*
+*Built in a ServiceNow Personal Developer Instance for self-directed learning and portfolio purposes. (Aryaan Sheikh)*
