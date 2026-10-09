@@ -19,7 +19,7 @@ This project covers the full incident lifecycle, service catalog requests, knowl
 
 ## Incident Management
 
-Logged, triaged, and resolved multiple Tier 1 and Tier 2 incidents following standard ITIL fields (impact, urgency, priority) with full documentation at every stage — from intake through work notes to resolution.
+Logged, triaged, and resolved multiple incidents following standard ITIL fields (impact, urgency, priority) with full documentation at every stage — from intake through work notes to resolution.
 
 **Tickets handled:**
 | Ticket | Issue | Category | Priority |
@@ -171,8 +171,8 @@ Built reports to visualize ticket data — a core skill for help desk roles that
 
 - Incident lifecycle management (intake, triage, troubleshooting documentation, resolution)
 - ITIL priority/impact/urgency matrices
-- Service Catalog request fulfillment
-- Knowledge-centered service (KCS) article authoring
+- Service Catalog request submission and tracking
+- Authored Knowledge Base articles from resolved tickets
 - Problem management and root cause analysis
 - Change management with risk assessment and backout planning
 - Ticket reporting and data visualization
