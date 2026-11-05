@@ -35,20 +35,48 @@ Logged, triaged, and resolved multiple incidents following standard ITIL fields 
 Each ticket followed the full lifecycle: **New → In Progress (with documented troubleshooting) → Resolved**, with resolution codes and notes appropriate to the fix applied.
 
 **Screenshots:**
-- `01-incident-inc0010006-new.png` — New ticket intake (password reset)
-- `02-incident-inc0010006-queue.png` — Ticket queue/list view
-- `03-incident-inc0010006-inprogress.png` — Work notes documenting troubleshooting
-- `04-incident-inc0010006-resolved.png` — Full resolution with notes
-- `05-incident-inc0010007-queue.png` — Queue view (printer ticket)
-- `06-incident-inc0010007-inprogress.png` — Work notes (printer troubleshooting)
-- `07-incident-inc0010007-resolved.png` — Resolved (printer)
-- `08-incident-inc0010008-queue.png` — Queue view (slow laptop ticket)
-- `09-incident-inc0010008-inprogress.png` — Work notes (disk cleanup, startup items)
-- `10-incident-inc0010008-resolved.png` — Resolved (slow laptop)
-- `11-incident-inc0010009-queue.png` — Queue view (email sync ticket)
-- `12-incident-inc0010009-inprogress.png` — Work notes (Outlook profile repair)
-- `13-incident-inc0010009-resolved.png` — Resolved (email sync)
-- `22-incident-inc0010010-resolved-linked.png` — Resolved WiFi incident, referencing the linked Problem and Change records (see below)
+New ticket intake (password reset)
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/01-incident-inc0010006-new.png)
+
+Ticket queue/list view
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/02-incident-inc0010006-queue.png)
+
+Work notes documenting troubleshooting
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/03-incident-inc0010006-inprogress.png)
+
+Full resolution with notes
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/04-incident-inc0010006-resolved.png)
+
+Queue view (printer ticket)
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/05-incident-inc0010007-queue.png)
+
+Work notes (printer troubleshooting)
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/06-incident-inc0010007-inprogress.png)
+
+Resolved (printer)
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/07-incident-inc0010007-resolved.png)
+
+Queue view (slow laptop ticket)
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/08-incident-inc0010008-queue.png)
+
+Work notes (disk cleanup, startup items)
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/09-incident-inc0010008-inprogress.png)
+
+Resolved (slow laptop)
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/10-incident-inc0010008-resolved.png)
+
+Queue view (email sync ticket)
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/11-incident-inc0010009-queue.png)
+
+Work notes (Outlook profile repair)
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/12-incident-inc0010009-inprogress.png)
+
+Resolved (email sync)
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/13-incident-inc0010009-resolved.png)
+
+Resolved WiFi incident, referencing the linked Problem and Change records (see below)
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/22-incident-inc0010010-resolved-linked.png)
+
 ---
 
 ## Service Catalog Requests
@@ -57,8 +85,11 @@ Submitted a request through the employee-facing Service Catalog, demonstrating t
  
 - **Request:** Adobe Acrobat Pro (REQ0010001)
 - Shows the distinction between an **Incident** (something broken) and a **Request** (something needed) — two different record types with their own fulfillment tracking.
+
 **Screenshot:**
-- `14-service-catalog-request-confirmation.png` — Order confirmation with fulfillment stage tracker
+Order confirmation with fulfillment stage tracker
+![Order confirmation](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/14-service-catalog-request-confirmation.png)
+
 ---
 
 ## Knowledge Base
@@ -71,9 +102,10 @@ Authored 3 knowledge articles based on resolved incidents, turning one-off fixes
 Each article follows a consistent structure: Problem, Steps to Resolve, Prevention Tip.
  
 **Screenshots:**
-- `15-kb-article-password-reset.png`
-- `16-kb-article-printer-offline.png`
-- `17-kb-article-email-sync.png`
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/15-kb-article-password-reset.png)
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/16-kb-article-printer-offline.png)
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/17-kb-article-email-sync.png)
+
 ---
 
 ## Problem Management
@@ -87,10 +119,17 @@ Built a full root cause investigation for a recurring issue affecting multiple u
 - **Workaround documented:** Temporary mitigation (5GHz/ethernet fallback) while a permanent fix was planned
 - **Root cause documented:** Access point overloaded during peak hours
 - **Full stage progression:** New → Assess → Root Cause Analysis → Fix in Progress → Resolved
+
 **Screenshots:**
-- `18-problem-linked-incidents.png` — Problem record with all 3 linked incidents (key screenshot)
-- `19-problem-root-cause-analysis.png` — Workaround and cause notes documented
-- `23-problem-resolved-full-lifecycle.png` — Final resolved state with full stage tracker, every stage checked off
+Problem record with all 3 linked incidents (key screenshot)
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/18-problem-linked-incidents.png)
+
+Workaround and cause notes documented
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/19-problem-root-cause-analysis.png)
+ 
+Final resolved state with full stage tracker, every stage checked off
+![Problem Resolved Full Lifecycle](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/23-problem-resolved-full-lifecycle.png)
+
 ---
 
 ## Change Management
@@ -102,9 +141,13 @@ Created a formal Change Request tied to the Problem above, demonstrating the ITI
 - **Risk:** Moderate
 - Full planning documentation: **Justification, Implementation Plan, Risk & Impact Analysis, Backout Plan, Test Plan**
 - Change moved through the approval workflow (New → Assess, awaiting formal approval)
+
 **Screenshots:**
-- `20-change-request-planning.png` — Full change documentation
-- `21-change-request-approval-pending.png` — Change awaiting approval, showing a realistic governance gate
+Full change documentation
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/20-change-request-planning.png)
+
+Change awaiting approval, showing a realistic governance gate
+![Problem Resolved Full Lifecycle](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/21-change-request-approval-pending.png)
 This scenario shows the complete chain: **3 related incidents → 1 root-caused problem → 1 formally planned and risk-assessed change**, with every record referencing the others in its notes.
  
 ---
@@ -115,9 +158,12 @@ Built reports to visualize ticket data — a core skill for help desk roles that
  
 1. **Incidents by Category** (pie chart) — breakdown of ticket volume by Hardware, Software, Network, etc.
 2. **Incidents by Priority, stacked by Category** (bar chart) — shows both urgency distribution and what kinds of issues make up each priority tier
+
 **Screenshots:**
-- `24-report-incidents-by-category.png`
-- `25-report-incidents-by-priority-stacked.png`
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/24-report-incidents-by-category.png)
+
+![image alt](https://github.com/Aryaan314/ServiceNow-Ticketing-System/raw/main/25-report-incidents-by-priority-stacked.png)
+
 ---
  
 ## Skills Demonstrated
@@ -125,7 +171,7 @@ Built reports to visualize ticket data — a core skill for help desk roles that
 - Incident lifecycle management (intake, triage, troubleshooting documentation, resolution)
 - ITIL priority/impact/urgency matrices
 - Service Catalog request fulfillment
-- Knowledge-centered service (KCS) article authoring
+- Authored Knowledge Base articles from resolved tickets
 - Problem management and root cause analysis
 - Change management with risk assessment and backout planning
 - Ticket reporting and data visualization
