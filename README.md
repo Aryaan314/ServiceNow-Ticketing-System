@@ -1,6 +1,3 @@
-# ServiceNow-Ticketing-System
-ITIL-aligned ServiceNow ITSM portfolio demonstrating incident, problem, and change management, service catalog requests, knowledge articles, and ticket reporting.
-
 # ServiceNow ITSM Portfolio
  
 Hands-on practice project built in a personal ServiceNow Developer Instance to build real, demonstrable skills in IT service management, ticketing workflows, and help desk support — as a complement to my Google IT Support Professional Certificate.
